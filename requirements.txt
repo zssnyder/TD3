@@ -22,7 +22,7 @@ future==0.17.1
 gast==0.2.2
 glfw==1.7.1
 grpcio==1.19.0
--e git+https://github.com/openai/gym.git@c1285d52555cf611f91cefcca7654a12cd32ff3b#egg=gym
+#-e git+https://github.com/openai/gym.git@c1285d52555cf611f91cefcca7654a12cd32ff3b#egg=gym
 h5py==2.9.0
 idna==2.8
 imageio==2.5.0
