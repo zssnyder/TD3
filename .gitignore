@@ -1,3 +1,4 @@
 runs/*
 log_file.txt
 settings.json
+__pycache__
